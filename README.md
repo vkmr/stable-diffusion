@@ -11,7 +11,7 @@ Stable Diffusion is a powerful, open-source text-to-image generation model. Whil
 
 Please refer to [notebook](https://github.com/vkmr/stable-diffusion/blob/main/keras-cv-implementation.ipynb) for implementation details.
 
-2. [HuggingFace] (https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+mecha+robot+in+a+favela+in+expressionist+style) implementation: Found huggingface implementation to be very quick on NVIDIA GPU compared to keras. Key environment setting is to login on huggingface hub to accept terms and licenses. 
+2. [HuggingFace](https://huggingface.co/CompVis/stable-diffusion-v1-4) implementation: Found huggingface implementation to be very quick on NVIDIA GPU compared to keras. Key environment setting is to login on huggingface hub to accept terms and licenses. 
 Few commands for environment setup:
  * $ conda create --name stable-diffusion-huggingface python=3.10
  * $ conda activate stable-diffusion-huggingface
