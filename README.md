@@ -1,5 +1,5 @@
 # stable-diffusion
-In this guide, I will show how to generate novel images based on a text prompt using multiple implementation of stability.ai's text-to-image model, [Stable Diffusion]([https://link-url-here.org](https://arxiv.org/abs/2112.10752))
+In this guide, I will show how to generate novel images based on a text prompt using multiple implementation of stability.ai's text-to-image model, [Stable Diffusion](https://arxiv.org/abs/2112.10752)
 
 Stable Diffusion is a powerful, open-source text-to-image generation model. While there exist multiple open-source implementations that allow you to easily create images from textual prompts, 
 
